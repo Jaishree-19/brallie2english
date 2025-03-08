@@ -59,8 +59,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact 📧
-
-For any questions or inquiries, please contact [j.kamlesh8102@gmail.com](mailto:j.kamlesh8102@gmail.com).
-
 Feel free to explore and use this Braille2English Translator. We hope it proves to be a helpful tool for your Braille translation needs! ✨
